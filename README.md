@@ -5,7 +5,6 @@ I'm **Dušan**, a passionate **Full-Stack Software Developer**. I love working o
 
 #### 🔭 Currently Working On:
 - **Lowman Central**: Web App for Destiny 2, where players can look at their stats, learn and compete on the Leaderboards
-- **UrbanMall**: Mix of a Virtual Mall and Social Media where users can create perfect outfits and shop with ease
 
 #### 💬 Languages and Technologies I Know:
 - **Languages**: JavaScript, HTML/CSS, C, C++, Java
